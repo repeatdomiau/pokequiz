@@ -1,0 +1,1277 @@
+[
+    {
+        "id": "164e304daed9e2142a6d84681e3ba669",
+        "name": "bulbasaur",
+        "number": 1,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "441ee82949ffee00f21459387f83f961",
+        "name": "ivysaur",
+        "number": 2,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "62b513c72a058a06a87b8522be0c7a1c",
+        "name": "venusaur",
+        "number": 3,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "f0eb43ee186dc087bda60ba3441a0b30",
+        "name": "charmander",
+        "number": 4,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "87d0850c53312b6ed162c69b639c1efc",
+        "name": "charmeleon",
+        "number": 5,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "6a4b9e817fb9f522dbd012f642855a03",
+        "name": "charizard",
+        "number": 6,
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": "7577f859913b3b22763a174e2848e65a",
+        "name": "squirtle",
+        "number": 7,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "d2386f90164a713a5392535ac30d794f",
+        "name": "wartortle",
+        "number": 8,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "3b8cc476a0a8632395cdaf2dd0a19c32",
+        "name": "blastoise",
+        "number": 9,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "958ceb9f4c9113840c85f78decf6c257",
+        "name": "caterpie",
+        "number": 10,
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": "4ad0fd71bf58e2f42628519a1a08432c",
+        "name": "metapod",
+        "number": 11,
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": "4b39197d558ae3bcb1c2a5bbe6e456b5",
+        "name": "butterfree",
+        "number": 12,
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": "93cd0195651e30ffc707270d1effbc57",
+        "name": "weedle",
+        "number": 13,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": "3ebe94df455494a5e271bec6943fd0b8",
+        "name": "kakuna",
+        "number": 14,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": "cc8da576efc8701d4539df1b759c8dbd",
+        "name": "beedrill",
+        "number": 15,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": "234d10a1d50dc56b2c88cad6e28691b1",
+        "name": "pidgey",
+        "number": 16,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "a6151e859b81a6a921f95c8c238ecc4a",
+        "name": "pidgeotto",
+        "number": 17,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "bea40fc9f5df6e63c2e303114139b7be",
+        "name": "pidgeot",
+        "number": 18,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "d274ecad125b4cef4ec0c7cd87a21e3f",
+        "name": "rattata",
+        "number": 19,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "99447e1520183d7bf290918c90623e09",
+        "name": "raticate",
+        "number": 20,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "2a3b5d1afcc70515b40151d45c5ee93a",
+        "name": "spearow",
+        "number": 21,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "5ea38e9f87b9d7a64f1faf0bdb95bb80",
+        "name": "fearow",
+        "number": 22,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "8d0897996f888805dd1c99a56e5710e8",
+        "name": "ekans",
+        "number": 23,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "8e78638a3af7c53d62fdcfd831f291b7",
+        "name": "arbok",
+        "number": 24,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "9ce44f88a25272b6d9cbb430ebbcfcf1",
+        "name": "pikachu",
+        "number": 25,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": "b38056ff020b46ccc23938a2dbc9146f",
+        "name": "raichu",
+        "number": 26,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": "7669caa546acd78d06947e66d89f0cd4",
+        "name": "sandshrew",
+        "number": 27,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": "db05dca437875e6f3df012b3e85bc830",
+        "name": "sandslash",
+        "number": 28,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": "fe7605d947cf22d5ed039ecc219f37f2",
+        "name": "nidoran-f",
+        "number": 29,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "53283f4c3ad48405ea61a71d7b15a150",
+        "name": "nidorina",
+        "number": 30,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "f64214a929997c49600f5f65ce38b01a",
+        "name": "nidoqueen",
+        "number": 31,
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": "22a70ca5d93b87fb0e208dbfcfc60d4a",
+        "name": "nidoran-m",
+        "number": 32,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "50345906005addb9f4f4d2b33664171a",
+        "name": "nidorino",
+        "number": 33,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "4ac804cde4c09910c564d43eb76cb9ca",
+        "name": "nidoking",
+        "number": 34,
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": "29c635b1d9fdaf5ae70fed4a46b9b3f0",
+        "name": "clefairy",
+        "number": 35,
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": "5568b4beb1c8a9fdcb169d4b8b2a9c90",
+        "name": "clefable",
+        "number": 36,
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": "966f1c74df78bfaf17d04351352f8280",
+        "name": "vulpix",
+        "number": 37,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "32d6d0b6bef09781a3cbd6cd8f0f709f",
+        "name": "ninetales",
+        "number": 38,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "805a69c06e8ce60cbca6ec43218ae789",
+        "name": "jigglypuff",
+        "number": 39,
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "id": "ffe1b68ed67e4ccf963d53f8ace3a0b9",
+        "name": "wigglytuff",
+        "number": 40,
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "id": "6c6bf5bfba50e8ea4a002d3c1a6abb70",
+        "name": "zubat",
+        "number": 41,
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": "2870baec3797ecb41cca4655fa376101",
+        "name": "golbat",
+        "number": 42,
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": "033b913793f48ca38a0b5b25a0e24193",
+        "name": "oddish",
+        "number": 43,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "9de1485387d904b3b2f045b4bbe5cb28",
+        "name": "gloom",
+        "number": 44,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "9b34008b4e7918e7eefb057e89669615",
+        "name": "vileplume",
+        "number": 45,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "87985799d410ead3564453e2d9371ad5",
+        "name": "paras",
+        "number": 46,
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": "031a622a313c7726b4af18993375135e",
+        "name": "parasect",
+        "number": 47,
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": "b74b55235ccadf8de1a0f6b9726e9a3e",
+        "name": "venonat",
+        "number": 48,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": "d3c3345eb19b6a76b9e39dc487e81ec0",
+        "name": "venomoth",
+        "number": 49,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": "7e39bef26b304ed292f3c1042882d69a",
+        "name": "diglett",
+        "number": 50,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": "60addad93b4dd538a63f2534a06d4a73",
+        "name": "dugtrio",
+        "number": 51,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": "fd575f5beb8db24183cb7993f1859826",
+        "name": "meowth",
+        "number": 52,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "40c47a207709d010ee1541d32f7c0c42",
+        "name": "persian",
+        "number": 53,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "adacde58a45580f4a15485c0d934c658",
+        "name": "psyduck",
+        "number": 54,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "a532443f3e04a9e00295a8cd2a75e080",
+        "name": "golduck",
+        "number": 55,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "5004662f6cfc74ff9276e8acb8c70530",
+        "name": "mankey",
+        "number": 56,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "778c27e4a5cbf4f3903cb3b585799b3c",
+        "name": "primeape",
+        "number": 57,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "5b87c58c1f3bb1fc4b6137b837034856",
+        "name": "growlithe",
+        "number": 58,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "c2d8f650dabd9ba353d5431c13bb01d3",
+        "name": "arcanine",
+        "number": 59,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "c1a0fe38ae79ae826ce6f4e0d96dea9b",
+        "name": "poliwag",
+        "number": 60,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "4dd0a3d16c970c73e8bc0ba3b15f7c8f",
+        "name": "poliwhirl",
+        "number": 61,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "b098c148341098efc872d18ac61c0783",
+        "name": "poliwrath",
+        "number": 62,
+        "types": [
+            "water",
+            "fighting"
+        ]
+    },
+    {
+        "id": "79218a25c2a07a92155aeb3c2b95d340",
+        "name": "abra",
+        "number": 63,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "cffb4c276ade4ff9d623952b10a4d576",
+        "name": "kadabra",
+        "number": 64,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "54af55c832a6586bee3bc3023a693351",
+        "name": "alakazam",
+        "number": 65,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "757b6e269f606798eb1a5a41927aecbb",
+        "name": "machop",
+        "number": 66,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "df578917bea836cb6e0254b67bb967fe",
+        "name": "machoke",
+        "number": 67,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "5e262fa9223fc446ade83d3ffa0a5ef8",
+        "name": "machamp",
+        "number": 68,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "f4b012e1169dc9692e71107442f966ef",
+        "name": "bellsprout",
+        "number": 69,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "82d1a0b786703b10262d7d644e7546b0",
+        "name": "weepinbell",
+        "number": 70,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "d8cfd7e2e5d18ce33338375812e92236",
+        "name": "victreebel",
+        "number": 71,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": "0c4498d1a1b94cb02785522587dd2e26",
+        "name": "tentacool",
+        "number": 72,
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    {
+        "id": "d79ae1a07d2d1c07f4efa15e5c5a5e1d",
+        "name": "tentacruel",
+        "number": 73,
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    {
+        "id": "96bc98605a676fdae43c1fce80655821",
+        "name": "geodude",
+        "number": 74,
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": "c648a20fba431aa603e745743caa0d6d",
+        "name": "graveler",
+        "number": 75,
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": "62650cd9a5fb136dc137b155e4ae6f2a",
+        "name": "golem",
+        "number": 76,
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": "520c78073cb9285bff0653977789017e",
+        "name": "ponyta",
+        "number": 77,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "b50bad560fb57405212ed95da1a95dc4",
+        "name": "rapidash",
+        "number": 78,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "b734de3b32bb8c76d43c66f2e4835411",
+        "name": "slowpoke",
+        "number": 79,
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "id": "bf9d67f7f004cc18d3ce2a0c38e3f835",
+        "name": "slowbro",
+        "number": 80,
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "id": "8f48f990adc5ab9c9088bcd131364fcd",
+        "name": "magnemite",
+        "number": 81,
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "id": "c6aca989911ceda17d2aea616f7a8d48",
+        "name": "magneton",
+        "number": 82,
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "id": "f31f97c413acbc814182d3e8b0f32fe8",
+        "name": "farfetchd",
+        "number": 83,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "eb54575d1c54fb0b98832abf602ff703",
+        "name": "doduo",
+        "number": 84,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "78600d6c9baf0bc2f48a70a9be02502f",
+        "name": "dodrio",
+        "number": 85,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": "9ae603ca4ed9c2e5e858e5c5ef5f344b",
+        "name": "seel",
+        "number": 86,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "1634a5efe5eaf219edbaf4459265517c",
+        "name": "dewgong",
+        "number": 87,
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": "7f566c3193dd607829e9db11e06f350f",
+        "name": "grimer",
+        "number": 88,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "b60fb7657926287713da4f2861d6db35",
+        "name": "muk",
+        "number": 89,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "cb86b2de1d2f24fd89b6dc50c2f3b3da",
+        "name": "shellder",
+        "number": 90,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "cc0272074cc9700270010e9a05c7dd54",
+        "name": "cloyster",
+        "number": 91,
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": "00e159af2216979eb86521a92bff4188",
+        "name": "gastly",
+        "number": 92,
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "id": "7d636ee05a75cb52aa116542825dfd7e",
+        "name": "haunter",
+        "number": 93,
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "id": "1cd427bc4d841ae948d347a825451636",
+        "name": "gengar",
+        "number": 94,
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "id": "fd96a4e3eb98ba9acae5c3abc3d3e4a9",
+        "name": "onix",
+        "number": 95,
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "id": "d5f3426f3d5a8fd15fed1008bf9295f4",
+        "name": "drowzee",
+        "number": 96,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "ec1d72e232e1c659b5e7339829155b01",
+        "name": "hypno",
+        "number": 97,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "3a46698f93d91950b52477d060c6af44",
+        "name": "krabby",
+        "number": 98,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "af906fe1ca06fe676a69401f07ab2886",
+        "name": "kingler",
+        "number": 99,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "baf8fb73c541b1d3b35d3006397d6ce9",
+        "name": "voltorb",
+        "number": 100,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": "64f428b92cc37cf115d2096c0f71b241",
+        "name": "electrode",
+        "number": 101,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": "3a0e5e9095ebbf7d98f5b164d4b4c574",
+        "name": "exeggcute",
+        "number": 102,
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "id": "6f5b891963af6571b2e181874002cb6b",
+        "name": "exeggutor",
+        "number": 103,
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "id": "3888eb85ed0c1238c9c59539dae1c96b",
+        "name": "cubone",
+        "number": 104,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": "240a29ee6c4e707fb5919fdd28516a95",
+        "name": "marowak",
+        "number": 105,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": "9fe4ef429a1ca2089d4d4c0e5da47b60",
+        "name": "hitmonlee",
+        "number": 106,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "6ef74cd45ff7972ca8673439f404036d",
+        "name": "hitmonchan",
+        "number": 107,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "id": "401051266e575f7c586f9264557405c9",
+        "name": "lickitung",
+        "number": 108,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "de73f6bf1e38d19896df9db92cd0f1ed",
+        "name": "koffing",
+        "number": 109,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "36d0f6d04eda165482a62a0b58776122",
+        "name": "weezing",
+        "number": 110,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": "dbf8e52788199f76628cbc9b02642fdf",
+        "name": "rhyhorn",
+        "number": 111,
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "id": "711d94ed588e3eccaaf13ee62779b2a0",
+        "name": "rhydon",
+        "number": 112,
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "id": "228dae079f9df4beb50f6f3e2d204755",
+        "name": "chansey",
+        "number": 113,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "4cc7ea17b4c7226275a339fe4506af63",
+        "name": "tangela",
+        "number": 114,
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "id": "3d25dbfbb8eba4fe30a7dc281caea652",
+        "name": "kangaskhan",
+        "number": 115,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "bf6a718826abb4c530bc6e2672dbc680",
+        "name": "horsea",
+        "number": 116,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "f9805bdc1a924f0e4f6783f18d9bedfd",
+        "name": "seadra",
+        "number": 117,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "999cae1e22fe69d89d6f56e3050f18cb",
+        "name": "goldeen",
+        "number": 118,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "4c790a63797c7d634be3b2adc6e5cccd",
+        "name": "seaking",
+        "number": 119,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "9c5d54d37e8ef33118bb3d352bb01707",
+        "name": "staryu",
+        "number": 120,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "2adbdc1c178c35c31c09cc33dc7d129b",
+        "name": "starmie",
+        "number": 121,
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "id": "73c10ec0c0adcb22c56de6a2db35d3bc",
+        "name": "mr-mime",
+        "number": 122,
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "id": "efee64258dcd7eacd74694bbed64b65c",
+        "name": "scyther",
+        "number": 123,
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": "93503e4b62cf4b12451ec296839c6ed3",
+        "name": "jynx",
+        "number": 124,
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "id": "2d9ffa048afd68f1695c20a0e40d0f2a",
+        "name": "electabuzz",
+        "number": 125,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": "a3c3f0f8b844481c794ad0cb7907b13c",
+        "name": "magmar",
+        "number": 126,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "c530838cb77a60b0367b8f2eef1a4dd2",
+        "name": "pinsir",
+        "number": 127,
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": "d53268dfbbf8a5da2bfdcd418d7c6acf",
+        "name": "tauros",
+        "number": 128,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "07b251037a96df000a7a3fad7f53ca2f",
+        "name": "magikarp",
+        "number": 129,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "dd9bd841237296daab7c483b02d72d08",
+        "name": "gyarados",
+        "number": 130,
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "id": "4c6ee993ebde81e0266db8be68020214",
+        "name": "lapras",
+        "number": 131,
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": "13d9173fd8c031b139be36976e39614a",
+        "name": "ditto",
+        "number": 132,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "640ed62b7d35c1765a05eb8724535a53",
+        "name": "eevee",
+        "number": 133,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "ec38601e9ebd2fc22c7c476e14c7890d",
+        "name": "vaporeon",
+        "number": 134,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": "e335c21da5aa3eaec83c5d12eaefb336",
+        "name": "jolteon",
+        "number": 135,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": "5697f6f7fb8310da0e53bd170e901d1b",
+        "name": "flareon",
+        "number": 136,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": "b1845921aab7816c84f2d23e0f1c3ac4",
+        "name": "porygon",
+        "number": 137,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "1ffcd3d0b62571450181c241c7143514",
+        "name": "omanyte",
+        "number": 138,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": "d4b998b6e277ee6770d9429fa1e1644b",
+        "name": "omastar",
+        "number": 139,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": "7171fc6e03f9e569e07957c66754f007",
+        "name": "kabuto",
+        "number": 140,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": "e554a6768f077a8e1453d0dff7c65ecd",
+        "name": "kabutops",
+        "number": 141,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "id": "591d4c80e65a9d9476c1f52d2b725d78",
+        "name": "aerodactyl",
+        "number": 142,
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    {
+        "id": "00996911aa2ad4513a180273c79569d8",
+        "name": "snorlax",
+        "number": 143,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": "d469cc297ecbdc28019091a835d21de5",
+        "name": "articuno",
+        "number": 144,
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    {
+        "id": "354e2a35f9c62b5bb40650c7206eb105",
+        "name": "zapdos",
+        "number": 145,
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    {
+        "id": "c4c27ddddb6dbc2f4028fbeb08184e86",
+        "name": "moltres",
+        "number": 146,
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": "c46950087eaa407782ad2619204476cd",
+        "name": "dratini",
+        "number": 147,
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "id": "8aa3707a5fda8c7940e8e824ea4a6839",
+        "name": "dragonair",
+        "number": 148,
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "id": "0202b75147bcbb0419f0b6f6c4350432",
+        "name": "dragonite",
+        "number": 149,
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    {
+        "id": "f86256146c8078c3b3c0f577a40c954c",
+        "name": "mewtwo",
+        "number": 150,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "4b673ef9d9869d2661a128b4d115f5fc",
+        "name": "mew",
+        "number": 151,
+        "types": [
+            "psychic"
+        ]
+    }
+]

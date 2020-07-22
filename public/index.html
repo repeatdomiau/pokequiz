@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex (gen 1)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link href='index.css' type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container pokequiz-container">
+        <div class="pokequiz">
+            <form>
+                <h1>PokeQuiz (gen 1)</h1>
+                <img id="pokequizImage" src='' />
+                <p>Que pokemon é esse??</p>
+                <input id="pokequizName" type='text' name='anwser' />
+                <p>[deixe o campo em branco para pular]</p>
+                <input id="pokequizNumber" type='hidden' name='number' value="" />
+                <button type='submit'>Responder</button>
+            </form>
+        </div>
+    </div>
+    <div class="container pokedex-container">
+        <h1>PokeDex (gen 1)</h1>
+        <ul class="pokedex">
+
+        </ul>
+    </div>
+    <template id='pokeCard'>
+        <li class='card {{CLASSES}}' data-id='{{ID}}'>
+            <div class='card-image-container'>
+                <img src='{{IMAGE}}' />
+            </div>
+            <div class="number">
+                <span>#{{NUMBER}}</span>
+            </div>
+            <div class="name">
+                <span>{{NAME}}</span>
+            </div>
+            <div class="types">
+                <span>{{TYPES}}</span>
+            </div>
+        </li>
+    </template>
+    <script src='index.js' type="text/javascript"></script>
+</body>
+
+</html>
